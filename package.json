@@ -1,0 +1,7 @@
+{
+  "name": "movieql",
+  "version": "movieql",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "license": "MIT"
+}
